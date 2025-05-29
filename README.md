@@ -1,5 +1,4 @@
 # SCT_DS_02
-# SCT_DS_02
 # Flipkart Dataset EDA using Power BI
 
 This project is a part of **Task 04** during my internship at **SkillCraft Technology**. The original objective was to analyze traffic accident data, but I chose to work with a **Flipkart dataset** and performed complete **Exploratory Data Analysis (EDA)** using **Power BI**.
